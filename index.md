@@ -29,6 +29,8 @@ Bariatric surgery has been suggested as a safe and effective way to treat obesit
 ### [An Investigation into factors affecting BWM Auction Price at 2008](https://github.com/anyfruit/BMW-Pricing)
 This project aims to investigate the factors that affect the price of used BMW cars sold at auction in 2008 using multiple linear regression principles. In this study, 14 selected predictor variables are used to predict the auction price based on detailed reasons and background interests. Diagnostic methods such as scatter plots, standardized residual plots, and partial F-tests are deployed to test the appropriateness of the constructed model. The results of this study may provide valuable insights into the factors that influence the selling price of used BMW cars.
 
-
 ### [Predict Pricing of Rental Properties on Airbnb](https://github.com/anyfruit/Predict-Pricing-of-Rental-Properties-on-Airbnb)
 Pricing a rental property such as an apartment or house on Airbnb is a difficult challenge. A model that accurately predicts the price can potentially help renters and hosts on the platform make better decisions. In this assignment, your task is to train a model that takes features of a listing as input and predicts the price.
+
+### [Web-Based Software: Recipe Finder](https://github.com/HanyuQiu/CS411--7)
+Picky eaters always avoid certain foods or dishes, but sometimes the dishes they can cook with their favorite ingredients may be limited. In such cases, this web-based software helps them to find available food and avoid using ingredients they don't like, as the software generates recipes based on the ingredients that are available/disliked.
