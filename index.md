@@ -2,9 +2,6 @@
 layout: default
 ---
 
-![Alt text for your image](https://github.com/anyfruit/anyfruit.github.io/blob/main/8cf26e9a971119d5ec56bcbd5102ed8.jpg?raw=true)
-*A brief caption for the image*
-
 ## Introduction
 I'm a senior at Boston University majoring in Statistics and minoring in Computer Science, I am passionate about using data and technology to drive insights and solutions...
 
