@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Introduction
+## Bio
 I'm a senior at [Boston University](https://www.bu.edu/) majoring in Statistics and minoring in Computer Science, I am passionate about using data and technology to drive insights and solutions. With a strong foundation in statistical analysis and programming languages such as Python and R, I am well-equipped to tackle complex data-driven problems.
 
 Currently, I am a research assistant working at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Professor Simone Gill and her PhD student Chi Whan Choi. I am also a member of the MOCOVI Research Group led by [Dr. Matthew Moore](https://www.linkedin.com/in/matthew-n-moore-313375113/). My research interest focus on theoretical statistical analysis and applying statistical and machine learning-related concepts into health-related research topics.
