@@ -29,7 +29,7 @@ Bariatric surgery has been suggested as a safe and effective way to treat obesit
 
 ## Course Projects
 
-### [An Investigation into factors affecting 2008 BWM Auction Price](https://github.com/anyfruit/BMW-Pricing)
+### [An Analysis of Factors Influencing 2008 BMW Auction Prices](https://github.com/anyfruit/BMW-Pricing)
 ##### Course Project for MA 575 Linear Models, Course Instructor: Professor Julio Castrillon
 This project aims to investigate the factors that affect the price of used BMW cars sold at auction in 2008 using multiple linear regression principles. In this study, 14 selected predictor variables are used to predict the auction price based on detailed reasons and background interests. Diagnostic methods such as scatter plots, standardized residual plots, and partial F-tests are deployed to test the appropriateness of the constructed model. The results of this study may provide valuable insights into the factors that influence the selling price of used BMW cars.
 
