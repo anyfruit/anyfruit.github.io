@@ -21,7 +21,7 @@ Monte-Carlo simulation is a computational technique that uses repeated random sa
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
 Combining walking with concurrent cognitive tasks will typically degrade overall task performance. Research based on dual-task paradigms, suggests that windividuals with obesity need more attentional resources for posture control.
 
-### [Factors contributing to whether or not people with obesity undergo bariatric surgery](https://github.com/anyfruit/Factors-Affecting-Likelihood-of-Undergoing-Bariatric-Surgery)
+### [Factors Contributing to Whether or not People With Obesity Undergo Bariatric Surgery](https://github.com/anyfruit/Factors-Affecting-Likelihood-of-Undergoing-Bariatric-Surgery)
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
 Bariatric surgery has been suggested as a safe and effective way to treat obesity by facilitating weight loss, but factors that predict the likelihood of bariatric surgery are unknown. The objective of this study was to describe factors associated with individuals with obesity that influence their decision to undergo bariatric surgery.
 
