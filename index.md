@@ -7,7 +7,7 @@ I'm a senior at [Boston University](https://www.bu.edu/) majoring in Statistics 
 
 Currently, I am a research assistant working at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Professor Simone Gill and her PhD student Chi Whan Choi. I am also a member of the MOCOVI Research Group led by [Dr. Matthew Moore](https://www.linkedin.com/in/matthew-n-moore-313375113/). My research interest focus on theoretical statistical analysis and applying statistical and machine learning-related concepts into health-related research topics.
 
-Beyond research experience, I also had an internship experience as a Digital Redesign Consultant in the Automotive team at PwC Advisory. You can find my CV [here](https://drive.google.com/file/d/1RYVq79_1_wDPOr8aFPBx0_ZUpgpNinXO/view?usp=sharing).
+Beyond research experience, I also had an internship experience as a Digital Redesign Consultant in the Automotive team at [PwC Advisory](https://www.pwc.com/us/en/services/consulting.html). You can find my CV [here](https://drive.google.com/file/d/1RYVq79_1_wDPOr8aFPBx0_ZUpgpNinXO/view?usp=sharing).
 
 ---
 
