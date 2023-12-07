@@ -25,6 +25,9 @@ Combining walking with concurrent cognitive tasks will typically degrade overall
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
 Bariatric surgery has been suggested as a safe and effective way to treat obesity by facilitating weight loss, but factors that predict the likelihood of bariatric surgery are unknown. The objective of this study was to describe factors associated with individuals with obesity that influence their decision to undergo bariatric surgery.
 
+### [Mixed effect model of the Virtual Obstacle Program](https://github.com/anyfruit/Mediation-Analysis-Virtual-Obstacle-Program)
+##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
+Obesity poses unique challenges for individuals’ static and dynamic stability. Compared to individuals with normal body mass index (BMI), individuals with obesity use different movement strategies such as increasing step width or hip flexion when walking or crossing obstacles, which often lead to falls and injuries.These strategies may be linked to postural instability or motor planning dysfunction (MPD) that can result in slowed information processing. Studies have investigated movement strategies in standing, but strategies in sitting have not been well documented.
 ---
 
 ## Course Projects
