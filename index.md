@@ -5,9 +5,9 @@ layout: default
 ## Introduction
 I'm a senior at [Boston University](https://www.bu.edu/) majoring in Statistics and minoring in Computer Science, I am passionate about using data and technology to drive insights and solutions. With a strong foundation in statistical analysis and programming languages such as Python and R, I am well-equipped to tackle complex data-driven problems.
 
-Currently, I am a research assistant working at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Prof. Simone Gill and his PhD student Chi Whan Choi. I am also a member of the MOCOVI Research Group led by Dr. Matthew Moore. My research interest focus on theoretical statistical analysis and applying statistical and machine learning-related concepts into health-related research topics.
+Currently, I am a research assistant working at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Professor Simone Gill and his PhD student Chi Whan Choi. I am also a member of the MOCOVI Research Group led by Dr. Matthew Moore. My research interest focus on theoretical statistical analysis and applying statistical and machine learning-related concepts into health-related research topics.
 
-Beyond research experience, I also had an internship experience as a digital redesign consultant in the Automotive team at PwC Advisory.
+Beyond research experience, I also had an internship experience as a Digital Redesign Consultant in the Automotive team at PwC Advisory. You can find my CV [here](https://drive.google.com/file/d/1RYVq79_1_wDPOr8aFPBx0_ZUpgpNinXO/view?usp=sharing).
 
 ---
 
@@ -26,7 +26,7 @@ Bariatric surgery has been suggested as a safe and effective way to treat obesit
 
 ## Course Projects
 
-### [An Investigation into factors affecting BWM Auction Price at 2008](https://github.com/anyfruit/BMW-Pricing)
+### [An Investigation into factors affecting 2008 BWM Auction Price](https://github.com/anyfruit/BMW-Pricing)
 This project aims to investigate the factors that affect the price of used BMW cars sold at auction in 2008 using multiple linear regression principles. In this study, 14 selected predictor variables are used to predict the auction price based on detailed reasons and background interests. Diagnostic methods such as scatter plots, standardized residual plots, and partial F-tests are deployed to test the appropriateness of the constructed model. The results of this study may provide valuable insights into the factors that influence the selling price of used BMW cars.
 
 ### [Predict Pricing of Rental Properties on Airbnb](https://github.com/anyfruit/Predict-Pricing-of-Rental-Properties-on-Airbnb)
