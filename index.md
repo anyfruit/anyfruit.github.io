@@ -3,7 +3,13 @@ layout: default
 ---
 
 ## Introduction
-I'm a senior at Boston University majoring in Statistics and minoring in Computer Science, I am passionate about using data and technology to drive insights and solutions...
+I'm a senior at Boston University majoring in Statistics and minoring in Computer Science, I am passionate about using data and technology to drive insights and solutions. With a strong foundation in statistical analysis and programming languages such as Python and R, I am well-equipped to tackle complex data-driven problems.
+
+Currently, I am a research assistant working at the Motor Development Lab, where I am fortunate to be advised by Prof. Simone Gill and his PhD student Chi Whan Choi. I am also a member of the MOCOVI Research Group led by Dr. Matthew Moore. My research interest focus on theoretical statistical analysis and applying statistical and machine learning-related concepts into health-related research topics.
+
+Beyond research experience, I also had an internship experience as a digital redesign consultant in the Automotive team at PwC Advisory.
+
+---
 
 ## Research Projects
 
@@ -15,6 +21,8 @@ Combining walking with concurrent cognitive tasks will typically degrade overall
 
 ### Factors contributing to whether or not people with obesity undergo bariatric surgery
 Bariatric surgery has been suggested as a safe and effective way to treat obesity by facilitating weight loss, but factors that predict the likelihood of bariatric surgery are unknown. The objective of this study was to describe factors associated with individuals with obesity that influence their decision to undergo bariatric surgery.
+
+---
 
 ## Course Projects
 
