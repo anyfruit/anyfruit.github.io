@@ -30,7 +30,7 @@ Bariatric surgery has been suggested as a safe and effective way to treat obesit
 Obesity poses unique challenges for individuals’ static and dynamic stability. Compared to individuals with normal body mass index (BMI), individuals with obesity use different movement strategies such as increasing step width or hip flexion when walking or crossing obstacles, which often lead to falls and injuries.These strategies may be linked to postural instability or motor planning dysfunction (MPD) that can result in slowed information processing. Studies have investigated movement strategies in standing, but strategies in sitting have not been well documented.
 
 ### [Analyzing and Predicting Wordle: A Multi-Model Approach to Difficulty and Number of Reports Prediction](https://github.com/anyfruit/wordle)
-##### Project for MCM 2023, Advisor: Dr. Matthew Moore
+##### Project for MCM 2023, With [Khanh Nguyen](https://www.linkedin.com/in/khanhnguyen98/)
 This paper aims to analyze and predict aspects of the Wordle game, employing a multi-model approach. It uses a Multiple Linear Regression Model to determine word difficulty, a Piecewise Curve Fitting Method for predicting player report trends, and a Monte-Carlo Simulation to anticipate future game outcomes. Additionally, it presents a data-driven strategy for winning at Wordle. These models collectively enhance understanding of Wordle's gameplay dynamics and player engagement.
 
 ---
