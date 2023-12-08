@@ -19,7 +19,7 @@ Monte-Carlo simulation is a computational technique that uses repeated random sa
 
 ### [Flexible Attentional Focus Shifting During Dual-Tasks: Effects of Texting While Walking on Gait and Cognition](https://github.com/anyfruit/TWWT-Project)
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
-Combining walking with concurrent cognitive tasks will typically degrade overall task performance. Research based on dual-task paradigms, suggests that windividuals with obesity need more attentional resources for posture control.
+The study uses various tasks such as normal walking, walking with obstacles, and walking while texting to assess the impact on gait and cognitive functions. The hypothesis is tested through different scenarios, including walking with low, medium, and high obstacles, while performing cognitive tasks like copying and answering questions. The research aims to understand how habitual dual tasks like walking while texting could affect cognitive and motor performance, and whether the difficulty of these tasks affects attention allocation.
 
 ### [Factors Contributing to Whether or not People With Obesity Undergo Bariatric Surgery](https://github.com/anyfruit/Factors-Affecting-Likelihood-of-Undergoing-Bariatric-Surgery)
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
@@ -28,6 +28,10 @@ Bariatric surgery has been suggested as a safe and effective way to treat obesit
 ### [Mixed effect model of the Virtual Obstacle Program](https://github.com/anyfruit/Mediation-Analysis-Virtual-Obstacle-Program)
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
 Obesity poses unique challenges for individuals’ static and dynamic stability. Compared to individuals with normal body mass index (BMI), individuals with obesity use different movement strategies such as increasing step width or hip flexion when walking or crossing obstacles, which often lead to falls and injuries.These strategies may be linked to postural instability or motor planning dysfunction (MPD) that can result in slowed information processing. Studies have investigated movement strategies in standing, but strategies in sitting have not been well documented.
+
+### [Analyzing and Predicting Wordle: A Multi-Model Approach to Difficulty and Number of Reports Prediction](https://github.com/anyfruit/wordle)
+##### Project for MCM 2023, Advisor: Dr. Matthew Moore
+This paper aims to analyze and predict aspects of the Wordle game, employing a multi-model approach. It uses a Multiple Linear Regression Model to determine word difficulty, a Piecewise Curve Fitting Method for predicting player report trends, and a Monte-Carlo Simulation to anticipate future game outcomes. Additionally, it presents a data-driven strategy for winning at Wordle. These models collectively enhance understanding of Wordle's gameplay dynamics and player engagement.
 
 ---
 
