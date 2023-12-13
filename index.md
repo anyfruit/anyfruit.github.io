@@ -33,6 +33,10 @@ Obesity poses unique challenges for individuals’ static and dynamic stability.
 ##### Project for MCM 2023, With [Khanh Nguyen](https://www.linkedin.com/in/khanhnguyen98/)
 This paper aims to analyze and predict aspects of the Wordle game, employing a multi-model approach. It uses a Multiple Linear Regression Model to determine word difficulty, a Piecewise Curve Fitting Method for predicting player report trends, and a Monte-Carlo Simulation to anticipate future game outcomes. Additionally, it presents a data-driven strategy for winning at Wordle. These models collectively enhance understanding of Wordle's gameplay dynamics and player engagement.
 
+### [Automated Pneumonia Detection in Chest X-Rays Using CNN-Based Image Segmentation]
+##### Independent Project
+This project develops a Convolutional Neural Network (CNN) for the automatic detection of pneumonia in chest X-ray images. Utilizing the "Chest X-Ray Images (Pneumonia)" dataset from Kaggle, the study focuses on constructing and training a CNN model to distinguish between normal and pneumonia-affected X-rays. The model's architecture comprises convolutional and max-pooling layers, culminating in a dense layer for binary classification. Emphasizing the benefits of CNNs, such as automated feature learning and spatial information processing, the project aims to improve the accuracy and speed of pneumonia diagnosis, contributing significantly to enhanced healthcare outcomes.
+
 ---
 
 ## Course Projects
