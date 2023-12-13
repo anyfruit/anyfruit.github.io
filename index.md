@@ -45,6 +45,6 @@ This project aims to investigate the factors that affect the price of used BMW c
 ##### Course Project for CS 541 Applied Machine Learning, Course Instructor: Professor Bryan Plummer
 Pricing a rental property such as an apartment or house on Airbnb is a difficult challenge. A model that accurately predicts the price can potentially help renters and hosts on the platform make better decisions. In this assignment, your task is to train a model that takes features of a listing as input and predicts the price.
 
-### [Web-Based Software: Recipe Finder](https://github.com/anyfruit/CS411-Group-7-Recipe)
+### [Web-Based Software: Recipe Finder](https://github.com/HanyuQiu/CS411--7)
 ##### Course Project for CS 411 Software Engineering, Course Instructor: Professor Parry Donham
 Picky eaters always avoid certain foods or dishes, but sometimes the dishes they can cook with their favorite ingredients may be limited. In such cases, this web-based software helps them to find available food and avoid using ingredients they don't like, as the software generates recipes based on the ingredients that are available/disliked.
