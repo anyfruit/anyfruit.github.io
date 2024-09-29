@@ -33,11 +33,11 @@ At Xiaohongshu (RED), I worked as an Admin Intern where I significantly improved
 ##### Position: Undergraduate Researcher, Advisor: Dr. Matthew Moore
 Monte-Carlo simulation is a computational technique that uses repeated random sampling to estimate the probabilistic outcomes of a process. This research introduces a methodology for estimating percentiles of distribution-free populations by using Monte-Carlo simulations to reproduce percentiles, and Beta distribution to approximate the simulation outputs to provide generalization of percentile estimations for most distribution-free populations.
 
-### [Flexible Attentional Focus Shifting During Dual-Tasks: Effects of Texting While Walking on Gait and Cognition](https://github.com/anyfruit/TWWT-Project)
+### [Can Young Adults Flexibly Shift Attentional Focus When Texting While Walking: Effects of Different Cognitive and Motor Tasks](https://github.com/anyfruit/TWWT-Project)
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
 The study uses various tasks such as normal walking, walking with obstacles, and walking while texting to assess the impact on gait and cognitive functions. The hypothesis is tested through different scenarios, including walking with low, medium, and high obstacles, while performing cognitive tasks like copying and answering questions. The research aims to understand how habitual dual tasks like walking while texting could affect cognitive and motor performance, and whether the difficulty of these tasks affects attention allocation.
 
-### [Factors Contributing to Whether or not People With Obesity Undergo Bariatric Surgery](https://github.com/anyfruit/Factors-Affecting-Likelihood-of-Undergoing-Bariatric-Surgery)
+### [Factors Contributing to Whether or Not People with Obesity Undergo Bariatric Surgery](https://github.com/anyfruit/Factors-Affecting-Likelihood-of-Undergoing-Bariatric-Surgery)
 ##### Position: Undergraduate Research Assistant, Advisor: Chi Whan Choi & Dr. Simone Gill
 Bariatric surgery has been suggested as a safe and effective way to treat obesity by facilitating weight loss, but factors that predict the likelihood of bariatric surgery are unknown. The objective of this study was to describe factors associated with individuals with obesity that influence their decision to undergo bariatric surgery.
 
