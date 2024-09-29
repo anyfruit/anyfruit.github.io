@@ -7,7 +7,7 @@ I am currently pursuing a Master’s degree in Data Science at Brown University,
 
 My research assistant experience at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Professor [Simone Gill](https://www.bu.edu/sargent/profile/simone-gill/) and her PhD student [Chi Whan Choi](https://www.researchgate.net/profile/Chi-Whan-Choi), provided me a lot of insights of how to handle with real-world dataset and challenges. This experience has also strengthened my analytical and research skills.
 
-I am actively seeking internship opportunities for Summer 2025, eager to contribute my expertise in data science, machine learning, and data engineering to innovative projects that drive meaningful impact. You can find my CV [here].
+I am actively seeking internship opportunities for Summer 2025, eager to contribute my expertise in data science, machine learning, and data engineering to innovative projects that drive meaningful impact. You can find my CV [here](https://github.com/anyfruit/anyfruit.github.io/blob/main/Kejing%20Yan%20Resume%203.pdf).
 
 ---
 
