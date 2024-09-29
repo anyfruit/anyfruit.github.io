@@ -3,11 +3,27 @@ layout: default
 ---
 
 ## Bio
-I'm a senior at [Boston University](https://www.bu.edu/) majoring in Statistics and minoring in Computer Science, I am passionate about using data and technology to drive insights and solutions. With a strong foundation in statistical analysis and programming languages such as Python and R, I am well-equipped to tackle complex data-driven problems.
+I am currently pursuing a Master’s degree in Data Science at Brown University, where I am deeply passionate about using data-driven solutions to address complex real-world problems. I am interning at [IQVIA](https://www.iqvia.com/) in their Analytics & AI Solutions team, working on cutting-edge machine learning models and AI-driven insights in healthcare.
 
-Currently, I am a research assistant working at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Professor Simone Gill and her PhD student Chi Whan Choi. I am also a member of the MOCOVI Research Group led by [Dr. Matthew Moore](https://www.linkedin.com/in/matthew-n-moore-313375113/). My research interest focus on theoretical statistical analysis and applying statistical and machine learning-related concepts into health-related research topics.
+My research assistant experience at the [Motor Development Lab](https://www.bu.edu/motordevlab/), where I am fortunate to be advised by Professor [Simone Gill](https://www.bu.edu/sargent/profile/simone-gill/) and her PhD student [Chi Whan Choi](https://www.researchgate.net/profile/Chi-Whan-Choi), provided me a lot of insights of how to handle with real-world dataset and challenges. This experience has also strengthened my analytical and research skills.
 
-Beyond research experience, I also had an internship experience as a Digital Redesign Consultant in the Automotive team at [PwC Advisory](https://www.pwc.com/us/en/services/consulting.html). You can find my CV [here](https://github.com/anyfruit/anyfruit.github.io/blob/ff0dfcf3d74b2f03aa74ed5f170946af39f3f79d/Kejing%20Yan%20Resume%202.0.pdf).
+I am actively seeking internship opportunities for Summer 2025, eager to contribute my expertise in data science, machine learning, and data engineering to innovative projects that drive meaningful impact. You can find my CV [here].
+
+---
+
+## Work Experiences
+
+### Analysis and AI Solutions Intern @ IQVIA
+As an Advanced Analysis & AI Solutions Intern at IQVIA, I work closely with cross-functional teams to deliver both standardized and customized analytics projects. I leverage statistical and machine learning methodologies to translate client requirements into actionable insights, contributing to meaningful healthcare innovations. In this dynamic environment, I partner with consultants, disease area experts, and technologists to identify workflow innovations and develop cutting-edge AI-driven solutions.
+
+### Undergraduate Research Assistant @ Boston University Motor Development Lab
+In my role at the Boston University Motor Development Lab, I collaborated with interdisciplinary teams on projects examining motor behavior under various stress conditions. Using machine learning models like Random Forest and SVM, I improved research accuracy by 6.1%. I also developed data pipelines to streamline the analysis of large datasets, enhancing the lab’s efficiency in understanding health-related decision-making and motor function.
+
+### Advisory Intern @ PwC
+As an Advisory Intern at PwC, I conducted comprehensive market research on the digital redesign trends in the automotive industry. I contributed to a high-profile price elasticity project for a luxury automotive brand, assisting in project scoping, resource planning, and client communications. Additionally, I collaborated on developing a strategic after-sales service system, ensuring alignment with client business needs and future growth objectives.
+
+### Admin Intern @ RED
+At Xiaohongshu (RED), I worked as an Admin Intern where I significantly improved the daily operations of the Shanghai branch. I optimized the meal plan for the staff, maintaining real-time communication with suppliers and organizing meal trials. I also created a voting system to gather employee input, which helped tailor meal offerings. Additionally, I conducted colleague surveys, visualized the results using Tableau, and proposed and established recreational clubs. I also helped manage logistics for the company's 82nd Anniversary event, coordinating meals for over 5,000 attendees across multiple cities.
 
 ---
 
