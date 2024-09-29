@@ -29,7 +29,7 @@ At Xiaohongshu (RED), I worked as an Admin Intern where I significantly improved
 
 ## Research Projects
 
-### [Population-Free Distribution Percentile Estimator](https://github.com/anyfruit/Population-Free-Distribution-Percentile-Estimator)
+### [Refining Distribution-Free Population Percentile Estimator by Monte-Carlo Simulation](https://github.com/anyfruit/Population-Free-Distribution-Percentile-Estimator)
 ##### Position: Undergraduate Researcher, Advisor: Dr. Matthew Moore
 Monte-Carlo simulation is a computational technique that uses repeated random sampling to estimate the probabilistic outcomes of a process. This research introduces a methodology for estimating percentiles of distribution-free populations by using Monte-Carlo simulations to reproduce percentiles, and Beta distribution to approximate the simulation outputs to provide generalization of percentile estimations for most distribution-free populations.
 
