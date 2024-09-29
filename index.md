@@ -13,16 +13,16 @@ I am actively seeking internship opportunities for Summer 2025, eager to contrib
 
 ## Work Experiences
 
-### Analysis and AI Solutions Intern @ IQVIA
+### Analysis and AI Solutions Intern @ [IQVIA](https://www.iqvia.com/)
 As an Advanced Analysis & AI Solutions Intern at IQVIA, I work closely with cross-functional teams to deliver both standardized and customized analytics projects. I leverage statistical and machine learning methodologies to translate client requirements into actionable insights, contributing to meaningful healthcare innovations. In this dynamic environment, I partner with consultants, disease area experts, and technologists to identify workflow innovations and develop cutting-edge AI-driven solutions.
 
-### Undergraduate Research Assistant @ Boston University Motor Development Lab
+### Undergraduate Research Assistant @ [Boston University Motor Development Lab](https://www.bu.edu/motordevlab/)
 In my role at the Boston University Motor Development Lab, I collaborated with interdisciplinary teams on projects examining motor behavior under various stress conditions. Using machine learning models like Random Forest and SVM, I improved research accuracy by 6.1%. I also developed data pipelines to streamline the analysis of large datasets, enhancing the lab’s efficiency in understanding health-related decision-making and motor function.
 
-### Advisory Intern @ PwC
+### Advisory Intern @ [PwC](https://www.pwc.com/us/en.html)
 As an Advisory Intern at PwC, I conducted comprehensive market research on the digital redesign trends in the automotive industry. I contributed to a high-profile price elasticity project for a luxury automotive brand, assisting in project scoping, resource planning, and client communications. Additionally, I collaborated on developing a strategic after-sales service system, ensuring alignment with client business needs and future growth objectives.
 
-### Admin Intern @ RED
+### Admin Intern @ [RED](https://www.xiaohongshu.com/protocols/about)
 At Xiaohongshu (RED), I worked as an Admin Intern where I significantly improved the daily operations of the Shanghai branch. I optimized the meal plan for the staff, maintaining real-time communication with suppliers and organizing meal trials. I also created a voting system to gather employee input, which helped tailor meal offerings. Additionally, I conducted colleague surveys, visualized the results using Tableau, and proposed and established recreational clubs. I also helped manage logistics for the company's 82nd Anniversary event, coordinating meals for over 5,000 attendees across multiple cities.
 
 ---
